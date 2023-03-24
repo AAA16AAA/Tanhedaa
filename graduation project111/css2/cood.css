@@ -1,0 +1,191 @@
+
+/* start sction welcom */
+
+.welcom{
+
+background-image: url(../photo/مرحبا\ بكم\ النص.png) ;
+margin-top: 50px;
+margin-bottom: 50px;
+
+}
+.pp p
+
+{
+    font-family: 'Cairo', serif;
+    direction: rtl;
+}
+.pp h1{
+    direction: ltr;
+    padding-left: 400px;
+    margin-bottom: 20px;
+}
+.pp p{
+  
+    margin-left: 200px;
+    font-size: 20px;
+    line-height: 1,8;
+}
+/* end sction welcom */
+   /* start sction vedio */
+     .vedio{
+        background-color: #ebf1ed;
+        margin-top: 70px;
+        margin-bottom: 80px;
+    
+     }
+     .vedio h1{
+        font-weight: 400;
+        text-indent: 30px;
+        margin-bottom: 20px;
+        margin-top: 50px;
+    
+     }
+     .vedio h1,.vedio p{
+        font-family: 'Cairo', serif;
+     }
+    .vedio p{
+        line-height: 2;
+    }
+    .vedio .media{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+   /* end sction vedio */
+   /* start slider */
+   .carousel {
+    height:500px;
+    background-color:#C9DBCD;
+   }
+   .carousel-inner{
+    position: relative;
+    left: 600px;
+    top:120px;
+    width:600px;
+   }
+ 
+   .dd{
+    width:200px;
+    margin-left:60px;
+    
+   }
+   .cc{
+    width:150px;
+    margin-left:60px;
+   
+   }
+.carousel-caotion{
+    color: rgb(0, 0, 0);
+    font-size:30px;
+    font-weight: bold;
+    margin-left:100px;
+    margin-top:30px;
+}
+.no{
+    background-color:#EFD3CD;
+    width:60px;
+    height:60px;
+    border:2px;
+    border-radius:50%;
+margin-top:400px;
+margin-left:500px;
+}
+.yep{
+    background-color:#EFD3CD;
+    width:60px;
+    height:60px;
+    border:2px;
+    border-radius:50%;
+    margin-top:400px;
+    margin-right:400px;
+}
+
+   /* end slider */
+
+/* start card */
+ .card {
+    margin-bottom: 80px;
+    margin-top:80px;
+  
+
+ }
+
+
+
+/* end card */
+
+
+
+
+/* start sction we */
+.we {
+    background-color: #c9dbcd;
+}
+
+
+.we .back{
+    background: url(../photo/back.png)  no-repeat center center;
+}
+.we .left i{
+    position: relative;
+ top: 400px;
+}
+.we img{
+    position: relative;
+    top: -50px;
+    
+}
+
+.we .heading{
+    direction: rtl;
+    font-family: 'Cairo', serif;
+    margin-top: 50px;
+    
+
+}
+
+.we .heading h1 {
+ margin-bottom: 20px;
+
+
+
+}
+.we .heading p{
+    font-size: 20px;
+    line-height: 2;
+}
+
+.we .rigth{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+/* end sction we */
+
+/* start footer */
+.footer{
+    background-color: #c9dbcd;
+    color:#000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 1px;
+    margin-bottom: 50px;
+    line-height: 4.5;
+}
+
+.footer a {color:#aaa ;}
+
+.footer a:hover{
+    color: #fff;
+}
+
+.social i{
+width: 50px;
+height: 50px;
+  
+}
+
+ 
+
+/* end footer*/
+
